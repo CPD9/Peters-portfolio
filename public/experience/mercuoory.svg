@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mercuoory Infinity">
+  <defs>
+    <linearGradient id="mi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b21b6"/>
+      <stop offset="100%" stop-color="#915EFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#mi)"/>
+  <path fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" d="M22 32c0-6 4-10 10-10s10 4 10 10-4 10-10 10-10-4-10-10zm20 0c0 6-4 10-10 10s-10-4-10-10"/>
+</svg>
