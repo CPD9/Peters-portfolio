@@ -6,5 +6,5 @@
     </linearGradient>
   </defs>
   <rect width="64" height="64" rx="14" fill="url(#ec)"/>
-  <text x="32" y="41" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800" fill="#fff" letter-spacing="-0.03em">EC</text>
+  <text x="32" y="42" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="800" fill="#fff" letter-spacing="-0.03em">E</text>
 </svg>
